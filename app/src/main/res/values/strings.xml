@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LoginScreen</string>
+    <string name="title_activity_location">Location</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="haveDo1">Milas ilçesinin Gökçeler Köyü’nde yer alan Uyku Vadisi,
+        çiçeklerin, ağaçların ve temiz havanın birleşimi ile oldukça huzur veren bir yerdir.
+        Şehrin gürültüsünden ve trafiğinden biraz olsun uzaklaşmanızı sağlacak ve sessiz ve
+        sakin bir güne merhaba Burada doğa yürüyüşü, trekking, kamp ve piknik yapabilir,
+        lezzetli alabalığın tadına bakabilir, Sincap Kayalıkları’na çıkıp sincapları
+        gözlemleyebilirsiniz.</string>
+    <string name="haveDo2">Köyceğiz’de yer alan Yuvarlakçay, ismini suyun yuvarlanarak
+        akmasından dolayı alır. Yaz aylarında sıcaklardan bir nebze olsun.kurtulmak ve
+        serinlemek için sık sık tercih edilen Yuvarlakçay, adeta saklı bir cennettir.
+        Salıncakların yanı sıra birçok sayıda restoran da burada yer alıyor.
+        Dilerseniz bu manzara eşliğinde güzel bir kahvaltı yapabilir veya lezzetli bir yemek yiyebilirsiniz </string>
+    <string name="haveDo3">Bir rivayete göre; Mısır Kraliçesi olan Kleopatra, sevgisi Roma Komutanı Antonius’u ziyaret etmek için Tarsus’a gider. Ardından Kedrai Adası’nın koyunu görür ve burayı ziyaret eder. Çok beğenmesine rağmen bir eksiklik olduğunu fark eder. Adada hiç kumun olmadığını sevgilisine anlatması sonucunda, Antonius Kuzey Afrika‘dan gemilerle kumlar taşıtır ve bir plaj oluşturur. Daha sonra burası Kleopatra ve Antonius için bir buluşma noktası olur.</string>
+    <string name="haveDo4">Muğla’yı bisiklet kiralayarak gezmek istemez misiniz? Yorucu olacağını hiç düşünmeyin, aksine daha kolay bir ulaşım aracı. Hem dilediğiniz yerde mola verip şehri keşfedecek hem dolu dolu fotoğraf çekilecek hem de hızlıca gitmek istediğiniz yerlere ulaşmış olacaksınız. Nitekim sadece Muğla’da değil, aynı zamanda çevresindeki meşhur tatil beldelerinden de bisiklet kiralayabilirsiniz. Böylece her yeri daha rahat bir şekilde gezmiş olursunuz.</string>
+    <string name="head1">UYKU VADİSİNDE SESSİZ BİR GÜN GEÇİR</string>
+    <string name="head2">YUVARLAKÇAY DA SALLANMANIN KEYFİNİ YAŞA</string>
+    <string name="head3">MAVİLİKLER ARASINDAKİ SERİ ADASINA GİT!</string>
+    <string name="head4">BİSİKLET KİRALA VE ŞEHRİ KEŞFETMEYE GİT</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

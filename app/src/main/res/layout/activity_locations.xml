@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/download"
+    >
+    <TextView
+        android:id="@+id/locationList"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="KONUMA GÖRE ETKİNLİKLER"
+        android:textColor="@color/blue"
+        android:textStyle="bold"
+        android:textSize="25dp"
+        android:textAlignment="center" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/bodrumImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            app:srcCompat="@mipmap/bodrum" />
+
+        <ImageView
+            android:id="@+id/dalamanImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@mipmap/dalaman" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/bodrumButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:backgroundTint="@color/blue"
+            android:text="BODRUM"
+            app:cornerRadius="15dp" />
+
+        <Button
+            android:id="@+id/dalamanButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="53dp"
+            android:backgroundTint="@color/blue"
+            android:text="DALAMAN"
+            app:cornerRadius="15dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/fethiyeImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_alignParentLeft="true"
+            app:srcCompat="@mipmap/fethiye" />
+
+        <ImageView
+            android:id="@+id/marmarisImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@mipmap/marmaris" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/fethiyeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="30dp"
+            android:backgroundTint="@color/blue"
+            android:text="FETHİYE"
+            app:cornerRadius="15dp" />
+
+        <Button
+            android:id="@+id/marmarisButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="33dp"
+            android:backgroundTint="@color/blue"
+            android:text="MARMARİS"
+            app:cornerRadius="15dp" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <ImageView
+            android:id="@+id/menteseImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:layout_alignParentLeft="true"
+            app:srcCompat="@mipmap/mugla" />
+
+        <ImageView
+            android:id="@+id/ulaImage"
+            android:layout_width="160dp"
+            android:layout_height="115dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="20dp"
+            app:srcCompat="@mipmap/ula" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/menteseButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="27dp"
+            android:backgroundTint="@color/blue"
+            android:text="MENTEŞE"
+            app:cornerRadius="15dp" />
+
+        <Button
+            android:id="@+id/ulaButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="53dp"
+            android:backgroundTint="@color/blue"
+            android:text="Ula"
+            app:cornerRadius="15dp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

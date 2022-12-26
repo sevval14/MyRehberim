@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/src/LoginScreen/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2025" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/drawable/arka_background.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/drawable/boatTour_background.xml" value="0.196" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/drawable/camp_background.xml" value="0.196" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/drawable/custom.xml" value="0.2025" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_camp.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_have_do.xml" value="0.2" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_location.xml" value="0.2" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_locations.xml" value="0.16576086956521738" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_main_page.xml" value="0.264" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_marmaris.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_note.xml" value="0.4" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_notes.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_settings_page.xml" value="0.2" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_travel_activities.xml" value="0.152" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/activity_users_comment.xml" value="0.264" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/content_location.xml" value="0.25" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_edit_note.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_home.xml" value="0.136" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_item_list.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_login.xml" value="0.152" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_note.xml" value="0.16" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_note_list.xml" value="0.152" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_profil.xml" value="0.13903985507246377" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_sign_up.xml" value="0.1" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/fragment_sign_up_fragemnet.xml" value="0.24094202898550723" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/havelayout.xml" value="0.136" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/layout.xml" value="0.176" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/layout1.xml" value="0.11043566362715299" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/marmarislayout.xml" value="0.2359375" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/layout/travelayout.xml" value="0.2" />
+        <entry key="..\:/src/LoginScreen/app/src/main/res/menu/menu.xml" value="0.12962962962962962" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
